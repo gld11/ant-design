@@ -2894,7 +2894,7 @@ Array [
                     class="ant-upload ant-upload-select ant-upload-disabled"
                   >
                     <span
-                      class="ant-upload ant-upload-disabled"
+                      class="ant-upload-trigger ant-upload-trigger-disabled"
                       role="button"
                     >
                       <input
@@ -9815,7 +9815,7 @@ exports[`renders components/form/demo/validate-other.tsx correctly 1`] = `
                 class="ant-upload ant-upload-select"
               >
                 <span
-                  class="ant-upload"
+                  class="ant-upload-trigger"
                   role="button"
                   tabindex="0"
                 >
@@ -9906,7 +9906,7 @@ exports[`renders components/form/demo/validate-other.tsx correctly 1`] = `
                 class="ant-upload ant-upload-drag"
               >
                 <span
-                  class="ant-upload ant-upload-btn"
+                  class="ant-upload-trigger ant-upload-btn"
                   role="button"
                   tabindex="0"
                 >

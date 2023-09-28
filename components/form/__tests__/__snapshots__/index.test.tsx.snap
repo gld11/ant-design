@@ -935,7 +935,7 @@ exports[`Form form should support disabled 1`] = `
                 style="display: none;"
               >
                 <span
-                  class="ant-upload ant-upload-disabled"
+                  class="ant-upload-trigger ant-upload-trigger-disabled"
                   role="button"
                 >
                   <input
