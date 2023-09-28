@@ -174,7 +174,7 @@ exports[`renders components/space/demo/base.tsx correctly 1`] = `
         class="ant-upload ant-upload-select"
       >
         <span
-          class="ant-upload"
+          class="ant-upload-trigger"
           role="button"
           tabindex="0"
         >
